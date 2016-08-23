@@ -9,8 +9,8 @@
 		<body>
 			<nav>
 	    		<ul>
-        		<li><a href="/">Home</a></li>
-	        	<li><a href="/proyecto/">Proyecto</a></li>
+        		<li><a href="https://flowsta.github.io/spain.schoolofdata.org/">Home</a></li>
+	        	<li><a href="https://flowsta.github.io/spain.schoolofdata.org/about">About</a></li>
         		<li><a href="http://okfn.es">Open Knowledge España</a></li>
         		<li><a href="/blog/">Blog</a></li>
 	    		</ul>

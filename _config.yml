@@ -1,2 +1,4 @@
-name: School of Data Spain
+name: School of Data España
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+paginate: 12
