@@ -4,15 +4,15 @@
 			<title>{{ post.title }}</title>
       <meta charset="utf-8" />
 			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
+			<link rel="stylesheet" type="text/css" href="{{ base.url }}/css/main.css">
 		</head>
 		<body>
 			<nav>
 	    		<ul>
-        		<li><a href="https://flowsta.github.io/spain.schoolofdata.org/">Home</a></li>
-	        	<li><a href="https://flowsta.github.io/spain.schoolofdata.org/about">About</a></li>
+        		<li><a href="{{ base.url }}/">Portada</a></li>
+	        	<li><a href="acerca-de/">About</a></li>
         		<li><a href="http://okfn.es">Open Knowledge España</a></li>
-        		<li><a href="/blog/">Blog</a></li>
+        		<li><a href="{{ base.url }}/blog/">Blog</a></li>
 	    		</ul>
 			</nav>
 			<div class="container">
