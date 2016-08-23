@@ -1,4 +1,9 @@
-	# Sort and Filter: The basics of spreadsheets
+---
+layout: posts
+title: "Sort and Filter: the Basics of Spreadsheets"
+date: 2016-08-03
+---
+# Sort and Filter: The basics of spreadsheets
 
 ## Introduction
 

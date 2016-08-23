@@ -1,3 +1,9 @@
+---
+layout: posts
+title: "Look out!: Common Misconceptions and how to avoid them"
+date: 2016-08-07
+---
+
 # Look Out!: Common Misconceptions and how to avoid them.
 
 ## Introduction

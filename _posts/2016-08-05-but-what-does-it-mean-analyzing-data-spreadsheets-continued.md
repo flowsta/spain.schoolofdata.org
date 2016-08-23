@@ -1,3 +1,9 @@
+---
+layout: posts
+title: "'But what does it mean?': Analyzing data (spreadsheets continued)"
+date: 2016-08-05
+---
+
 # ‘But what does it mean?’: Analyzing data (spreadsheets continued)
 
 ## Introduction

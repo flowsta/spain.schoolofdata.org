@@ -1,3 +1,9 @@
+---
+layout: posts
+title: "From Data to Diagrams: an Introduction to Plots and Charts"
+date: 2016-08-06
+---
+
 # From Data to Diagrams: An introduction to plots and charts
 
 ## Introduction

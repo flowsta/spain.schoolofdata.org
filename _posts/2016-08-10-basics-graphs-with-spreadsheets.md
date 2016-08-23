@@ -1,3 +1,9 @@
+---
+layout: posts
+title: "Basics Graphs with Spreadsheets"
+date: 2016-08-10
+---
+
 # Basic Graphs with Spreadsheets
 
 As well as calculating simple numerical statistics and summary statistics on a dataset using a spreadsheet, we can also use spreadsheets to generate quick graphical views of the results. You can use data visualization in two ways: 1.) to explore the data you have in front of you and 2.) to show what you’ve found.
