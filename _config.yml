@@ -1,7 +1,20 @@
+# Site settings:
+
+title: School of Data España
+email: scoda@okfn.es
+# description: > # ignora newlines hasta "baseurl:" School of Data España testing Jekyll
+baseurl: /spain.schoolofdata.org
+url: "http://scoda.okfn.es"
+twitter_username: okfn_es
+github_username: okfn-spain
 name: School of Data España
+
+Build settings:
+
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 paginate: 12
 paginate_path: "page:num"
-baseurl: /spain.schoolofdata.org
-gems: [jekyll-paginate]
+gems:
+ - jekyll-sitemap
+ - jekyll-seo-tag
