@@ -2,3 +2,6 @@ name: School of Data España
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 paginate: 12
+paginate_path: "page:num"
+baseurl: /spain.schoolofdata.org
+gems: [jekyll-paginate]
